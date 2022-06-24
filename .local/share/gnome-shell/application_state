@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-control-center.desktop" score="7" last-seen="1656074672"/>
     <application id="org.gnome.baobab.desktop" score="0" last-seen="1655999581"/>
-    <application id="org.gnome.Nautilus.desktop" score="765" last-seen="1656081051"/>
+    <application id="gnome-control-center.desktop" score="7" last-seen="1656074672"/>
     <application id="org.gnome.Terminal.desktop" score="81" last-seen="1656075344"/>
+    <application id="org.gnome.Nautilus.desktop" score="765" last-seen="1656092624"/>
     <application id="update-manager.desktop" score="0" last-seen="1655999665"/>
   </context>
 </application-state>
